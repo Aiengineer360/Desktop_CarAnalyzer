@@ -16,7 +16,7 @@ A desktop application built using **Python Tkinter** that enables users to analy
 
 ## 🖼️ Application Workflow
 
-![Workflow Diagram](A_flowchart_in_the_image_illustrates_the_workflow_.png)
+![Uploading ChatGPT Image May 1, 2025, 09_57_48 PM.png…]()
 
 ---
 
