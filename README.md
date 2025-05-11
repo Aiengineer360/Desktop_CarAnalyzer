@@ -52,6 +52,7 @@ A desktop application built using **Python Tkinter** that enables users to analy
 - **Left Panel**: Text area to input or paste data.
 - **Right Panel**: Table view of analysis results.
 - **Bottom Bar**: Live status messages and export functionality.
+![image](https://github.com/user-attachments/assets/d2633cae-4c02-4905-9259-64278a66fa79)
 
 ---
 
